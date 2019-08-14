@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 
 
-def speak_to_grandma
+def speak_to_grandma(string)
 
 new_string = string
 if new_string.upcase == string
