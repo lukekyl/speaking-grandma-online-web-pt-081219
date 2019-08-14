@@ -6,7 +6,7 @@ new_string = string
 
 if new_string.upcase == string
   return "HUH?! SPEAK UP, SONNY!"
-else string == "I LOVE YOU GRANDMA!"
+else if string == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 else
   return "NO, NOT SINCE 1938!"
