@@ -5,11 +5,11 @@ def speak_to_grandma(string)
 new_string = string
 
 if new_string.upcase == string
-  return "HUH?! SPEAK UP, SONNY!"
+  p "HUH?! SPEAK UP, SONNY!"
 elsif string == "I LOVE YOU GRANDMA!"
-  return "I LOVE YOU TOO PUMPKIN!"
+  p "I LOVE YOU TOO PUMPKIN!"
 else
-  return "NO, NOT SINCE 1938!"
+  p "NO, NOT SINCE 1938!"
 end
 
 end
