@@ -2,8 +2,8 @@
 
 
 def speak_to_grandma(string)
-
 new_string = string
+
 if new_string.upcase == string
   return "HUH?! SPEAK UP, SONNY!"
 else if string == "I LOVE YOU GRANDMA!"
