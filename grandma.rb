@@ -7,9 +7,9 @@ new_string = string
 if new_string.upcase == string
   return "HUH?! SPEAK UP, SONNY!"
 elseif string == "I LOVE YOU GRANDMA!"
-#  return "I LOVE YOU TOO PUMPKIN!"
-#else
-#  return "NO, NOT SINCE 1938!"
+  return "I LOVE YOU TOO PUMPKIN!"
+else
+  return "NO, NOT SINCE 1938!"
 end
 
 end
